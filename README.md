@@ -4,10 +4,10 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Features
 
-Canvas version
-p5.js version
-Two-array grid approach
-Unit tests
+- Canvas version
+- p5.js version
+- Two-array grid approach
+- Unit tests
 
 ## Recommended IDE Setup
 
